@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="libs/org.json.jar"/>
+	<classpathentry kind="lib" path="libs/qiniu-java-sdk-6.1.7.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
